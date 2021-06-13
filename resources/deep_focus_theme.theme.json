@@ -1,0 +1,17 @@
+{
+  "name": "deep-focus-theme",
+  "dark": true,
+  "author": "João Vanzuita",
+  "editorScheme": "/deep_focus_theme.xml",
+  "ui": {
+    "*": {
+      "background": "#161821",
+      "foreground": "#3a506b"
+    },
+    "Editor": {
+      "background": "#161821",
+      "foreground": "#CCCCCC",
+      "shortcutForeground": "#D2F53C"
+    }
+  }
+}
