@@ -1,0 +1,26 @@
+{
+  "name": "deep-focus-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:converge/deep-focus-theme.git",
+  "author": "Joao Vanzuita <joaovanzuita@me.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^13.1.0",
+    "@commitlint/config-conventional": "^13.1.0",
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "husky": "^7.0.1",
+    "semantic-release": "^17.4.4"
+  },
+  "commitlint": {
+    "extends": [
+      "@commitlint/config-conventional"
+    ]
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  }
+}
