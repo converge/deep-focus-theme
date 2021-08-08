@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>app.netlify.joaovanzuita/</id>
   <name>Deep Focus</name>
-  <version>1.0</version>
+  <version>1.1.0</version>
   <vendor email="joaovanzuita@me.com" url="https://joaovanzuita.netlify.app">João Vanzuita</vendor>
 
   <description><![CDATA[
