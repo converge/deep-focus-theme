@@ -1,17 +1,30 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
-  <name>Plugin display name here</name>
+  <id>app.netlify.joaovanzuita/</id>
+  <name>Deep Focus</name>
   <version>1.0</version>
-  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <vendor email="joaovanzuita@me.com" url="https://joaovanzuita.netlify.app">João Vanzuita</vendor>
 
   <description><![CDATA[
-      Enter short description for your plugin here.<br>
-      <em>most HTML tags may be used</em>
+      Deep Focus is a theme based on Next Ocean theme.<br><br>
+      Theme objectives:
+<ul>
+<li>Allow the developer to focus on the code.<li>
+<li>Contrast colors when it's relevant</li>
+<li>Speed up development using well known Next Ocean base theme</li>
+</ul>
+<br/><br/>
+To install:
+<ul>
+<li>Go to <b>Settings | Plugins</b>, find the theme plugin and install it</li>
+<li>Restart the IDE</li>
+</ul>
     ]]></description>
 
   <change-notes><![CDATA[
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>
+      Initial theme.<br>
+      <em>Use Next Ocean as base theme</em>
+      <em>Change color to make it darker</em>
+      <em>Remove high contrast</em>
     ]]>
   </change-notes>
 

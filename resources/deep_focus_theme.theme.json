@@ -5,13 +5,8 @@
   "editorScheme": "/deep_focus_theme.xml",
   "ui": {
     "*": {
-      "background": "#161821",
-      "foreground": "#3a506b"
-    },
-    "Editor": {
-      "background": "#161821",
-      "foreground": "#CCCCCC",
-      "shortcutForeground": "#D2F53C"
+      "background": "#1b2b34",
+      "foreground": "#afb1b3"
     }
   }
 }
